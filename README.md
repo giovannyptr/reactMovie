@@ -6,9 +6,9 @@ This is react app for movie db
 
 # CLIENT
 
-## Project Setup
-
 ``` cd my-app ```
+
+## Project Setup
 
 ``` npm install ```
 
